@@ -35,6 +35,6 @@ Feel free to explore, enjoy the visual journey, and connect with Pablo to captur
 
 *This website is developed using HTML, CSS, and Bootstrap 5.3.0.*
 
-*All images uswed are from https://www.pexels.com/@guihankenne/*
+*All images used are from https://www.pexels.com/@guihankenne/*
 
 *For more information, contact [UrbanWild Photography](#contact).*
